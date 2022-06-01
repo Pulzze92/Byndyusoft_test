@@ -1,0 +1,22 @@
+{
+  "name": "byndyusoft",
+  "version": "1.0.0",
+  "description": "This task was given by Byndyusoft company for hiring frontend developers staff. The task:",
+  "main": "script.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pulzze92/Byndyusoft_test.git"
+  },
+  "author": "Pulzze",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pulzze92/Byndyusoft_test/issues"
+  },
+  "homepage": "https://github.com/Pulzze92/Byndyusoft_test#readme",
+  "devDependencies": {
+    "mocha": "^10.0.0"
+  }
+}

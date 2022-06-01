@@ -44,12 +44,13 @@ const minValues = () => {
         return;
       } else {
         resField.innerHTML = '';
-        warnField.innerHTML = 'Извините, в пeредаваемых параметрах могут быть только числа!';
+        warnField.innerHTML = 'Извините, в пeредаваемых параметрах могут быть только числа введенные через запятую!';
         return;
       }
     }
     arr.push(Number(el));
     warnField.innerHTML = '';
+    field.value = '';
   });
 
   arr.sort((a, b) => a - b);
