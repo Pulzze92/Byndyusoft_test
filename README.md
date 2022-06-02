@@ -1,5 +1,7 @@
 # Byndyusoft_test
 
+The link of deployment: https://pulzze92.github.io/Byndyusoft_test/
+
 This task was given by Byndyusoft company for hiring frontend developers staff.
 The task:
 
